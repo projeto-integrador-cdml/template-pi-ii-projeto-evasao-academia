@@ -154,7 +154,9 @@ Antes do treinamento dos modelos com as features derivadas, foi realizada uma et
 
 ### 3.1 Decision Tree
 
-<!-- IMAGEM: árvores de decisão v1 e v2 (página 14 do PDF) -->
+<img width="945" alt="Decision Tree v1 — Somente Features Originais" src="https://github.com/user-attachments/assets/c4f1581c-2b24-49a1-af2c-1e427d4c7a8a" />
+
+<img width="945" alt="Decision Tree v2 — Features Originais + Engineered" src="https://github.com/user-attachments/assets/ca6cc2a3-4e66-48ab-885d-a71572a415bb" />
 
 Modelos treinados:
 
@@ -162,7 +164,7 @@ Modelos treinados:
 - DT v2 - originais + as 8 features engineered do notebook
 - CatBoost - exatamente com os hiperparâmetros do best dict que já tinhamos
 
-<!-- IMAGEM: gráfico comparativo de métricas (accuracy, F1, ROC-AUC) e matrizes de confusão (página 15 do PDF) -->
+<img width="945" alt="Comparação de Modelos — Previsão de Evasão em Academias" src="https://github.com/user-attachments/assets/dd60e470-6de7-44da-a239-1f2d10d2a80b" />
 
 **Comparação entre os modelos:**
 
